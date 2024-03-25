@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **React Native to expand my skills in mobile app development and create cross-platform applications.**
 
-- 👯 I’m looking to collaborate on **developing a web or mobile application**
-
-- 💬 Ask me about **PHP , Node JS , React**
+- 💬 Ask me about **"Just Don't :)"**
 
 - 📫 How to reach me **sandunlb2001@gmail.com.**
 
