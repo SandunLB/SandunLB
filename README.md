@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React Native to expand my skills in mobile app development and create cross-platform applications.**
 
-- 💬 Ask me about **"Just Don't :)"**
-
 - 📫 How to reach me **sandunlb2001@gmail.com.**
 
 - ⚡ Fun fact **Fixing a bug in code feels like finally conquering that elusive boss battle in a video game – the rush of accomplishment, the sense of relief, and the satisfaction of overcoming a daunting challenge all rolled into one victorious moment.**
