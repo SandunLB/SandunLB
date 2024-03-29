@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sandunlb2001@gmail.com.**
 
-- ⚡ Fun fact **Fixing a bug in code feels like finally conquering that elusive boss battle in a video game – the rush of accomplishment, the sense of relief, and the satisfaction of overcoming a daunting challenge all rolled into one victorious moment.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sandun lb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandun lb" height="30" width="40" /></a>
