@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunlb" alt="sandunlb" /></a> </p>
 
-- 🔭 I’m currently working on **developing my own portfolio website**
 
 - 🌱 I’m currently learning **React Native to expand my skills in mobile app development and create cross-platform applications.**
 
