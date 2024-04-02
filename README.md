@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandun LB</h1>
+<h1 align="center">Hi 👋, I'm Sandun</h1>
 <h3 align="center">A dedicated web and mobile developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandunlb&label=Profile%20views&color=0e75b6&style=flat" alt="sandunlb" /> </p>
