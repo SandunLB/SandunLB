@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunlb" alt="sandunlb" /></a> </p>
 
-
-- 🌱 I’m currently learning **React Native to expand my skills in mobile app development and create cross-platform applications.**
-
 - 📫 How to reach me **sandunlb2001@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
