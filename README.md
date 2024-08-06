@@ -7,14 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SandunLB&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="155" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SandunLB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="155" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandunLB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="155" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandunLB&theme=redical&hide_title=false&area=true&hide_border=true&radius=1" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandunLB&theme=redical&hide_title=false&area=true&hide_border=true&radius=1&custom_title=My%20Contribution%20Graph%20:)" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -98,6 +98,9 @@
   <a href="https://stackoverflow.com/users/23712777/sandun-lb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://leetcode.com/u/SandunLB/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+  </a>
 </div>
 
 ###
@@ -107,6 +110,12 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rzd27iv3chdavvyz5t7dljaltq&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h6 align="center">Coding is fun... until a bug swings in! 💻😂</h6>
 
 ###
 
