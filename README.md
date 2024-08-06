@@ -13,3 +13,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandunlb&show_icons=true&locale=en" alt="sandunlb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandunlb&" alt="sandunlb" /></p>
+
+
+[![Spotify](spotify-link-to-readme.vercel.app)](https://open.spotify.com/user/31rzd27iv3chdavvyz5t7dljaltq)
