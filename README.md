@@ -117,7 +117,7 @@
 
 <br clear="both">
 
-<h6 align="center">Coding is fun... until a bug swings in! 💻😂</h6>
+<h6 align="center">Coding is fun... until a bug swings in! 💻😂 ;)</h6>
 
 ###
 
