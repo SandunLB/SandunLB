@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey, I'm Sandun LB.<br>I build cool stuff with code and a touch of humor :)</h2>
+<h2 align="center">👋 Hey, I'm Sandun LB.<br>I build cool stuff with code and a touch of humor</h2>
 
 ###
 
